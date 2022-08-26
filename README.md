@@ -11,7 +11,7 @@
 
 <h2>Utilities Used</h2>
 
-- <b>ipapi</b> IP Address to Geolocation API
+- <b>api.ipapi.com</b> IP Address to Geolocation API
 
 <h2>Runnning the script to generate the custom logs that would be used by Azure Sentinel</h2>
 
