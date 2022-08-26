@@ -16,37 +16,37 @@
 <h2>Runnning the script to generate the custom logs that would be used by Azure Sentinel</h2>
 
 <p align="center">
-<img src="<>" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://imgur.com/jd4ppOy.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 <h2>Deploying Azure Sentinel with the custom log file</h2>
 
 <p align="center">
-<img src="<>" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://imgur.com/US8vhWE.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 <h2>Extracting data from custom logs to be used as custom fields </h2>
 
 <p align="center">
-<img src="<>" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://imgur.com/YfBq96Y.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 <h2>Verifying custom fields are parsing properly</h2>
 
 <p align="center">
-<img src="<>" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://imgur.com/VBRwfYq.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
-<h2>Using KQL to deploy azure sentinel workspace and configure Map</h2>
+<h2>Using KQL to deploy azure sentinel workbook and configure Map</h2>
 
 <p align="center">
-<img src="<>" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://imgur.com/Jalxlmo.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 <h2>World map of incoming attacks after 24 hours</h2>
 
 <p align="center">
-<img src="<>" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://imgur.com/1ygox4D.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 
